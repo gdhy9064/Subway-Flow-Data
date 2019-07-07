@@ -1,5 +1,4 @@
- - 该数据源自天池举办的全球城市计算AI挑战赛，点击[此处](https://pan.baidu.com/s/1iLHomv5NRodB_3jr7FcFow)下载原数据
-提取码: arse
+ - 该数据源自天池举办的全球城市计算AI挑战赛，点击[此处](https://pan.baidu.com/s/1iLHomv5NRodB_3jr7FcFow)下载原数据，提取码: arse
 
  - 这里的数据由原数据经过统计而来，数据格式如下
 
